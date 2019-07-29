@@ -1,0 +1,5 @@
+https://www.javaguides.net/2018/11/hibernate-5-c3p0-connection-pool-example.html
+
+https://github.com/maxwellhertz/SpringBoot-Vue-SimpleDemo
+
+https://github.com/RameshMF/spring-boot-tutorial
